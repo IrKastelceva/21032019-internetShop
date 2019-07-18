@@ -5,7 +5,7 @@
  include $_SERVER['DOCUMENT_ROOT'] . '/modules/header.php';
 
 ?>
-
+<!-- просто изменения -->
     <body>
         <div class="wrapper">
 
